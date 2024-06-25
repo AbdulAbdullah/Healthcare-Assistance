@@ -44,5 +44,5 @@ This is the backend for the Healthcare Assistance App, which connects patients i
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/healthcare-assistance-app.git
+   https://github.com/AbdulAbdullah/Healthcare-Assistance.git
    cd healthcare-assistance-app
