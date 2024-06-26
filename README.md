@@ -1,4 +1,4 @@
-# Healthcare Assistance App Backend
+# Healthcare Assistance App
 
 This is the backend for the Healthcare Assistance App, which connects patients in need with donors who want to provide financial support. The backend is built with Django REST Framework and uses PostgreSQL as the database. It includes a User Management System (UMS) to handle registration, authentication, and authorization of users.
 
